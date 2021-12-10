@@ -1,1 +1,1 @@
-# Using ProducesResponseType in Web API
+# Using ProducesResponseType attribute with action types in Web API
